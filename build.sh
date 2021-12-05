@@ -181,7 +181,7 @@ echo '| (_) | (_| | |_| \__ \__ \  __/ |_| | | | | |>  < '
 echo ' \___/ \__,_|\__, |___/___/\___|\__, |_| |_|_/_/\_\'
 echo '             |___/              |___/              '
 echo ''
-echo '          Made with <3 by raspberryenvoie'
+echo '          Made by DarthOCE and Raspberryenvoie '
 linux /boot/vmlinuz boot=live quiet
 initrd /boot/initrd.img
 boot

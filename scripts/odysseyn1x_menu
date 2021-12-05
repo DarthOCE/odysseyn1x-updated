@@ -7,7 +7,7 @@ whiptail_height="$(($(tput lines) - 6))"
 whiptail_width="$(($(tput cols) - 20))"
 
 while true; do
-  CHOICE="$(whiptail --nocancel --title "Odysseyn1x $ODYSSEYN1X_VERSION" --menu '' $whiptail_height $whiptail_width 7 \
+  CHOICE="$(whiptail --nocancel --title "Odysseyn1x $ODYSSEYN1X_VERSION by DarthOCE" --menu '' $whiptail_height $whiptail_width 7 \
     '1' 'Checkra1n' \
     '2' 'Odysseyra1n' \
     '3' 'Project Sandcastle' \
