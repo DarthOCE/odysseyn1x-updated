@@ -1,3 +1,1 @@
-- Updated the odysseyra1n script
-
-**SHA-256:**
+- Improved speeds on odysseyra1n script
