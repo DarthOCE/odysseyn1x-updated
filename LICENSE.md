@@ -1,5 +1,6 @@
 MIT License
 
+Copyright (c) 2020 DarthOCE \
 Copyright (c) 2020 raspberryenvoie \
 Copyright (c) 2020 Asineth
 
